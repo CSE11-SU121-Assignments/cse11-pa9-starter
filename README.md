@@ -1,5 +1,5 @@
 # PA9 - More String Manipulation
-### Due Date: Thursday, July 29, 11:59PM Pacific Time
+### Due Date: Thursday, September 2, 11:59PM Pacific Time
 
 ## Learning Goals
 In this assignment, you will extend from PA7 and add more string manipulation features.
